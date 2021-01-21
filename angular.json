@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "notebook"
+  "defaultProject": "notebook",
+  "cli": {
+    "analytics": "5f20c22b-000a-46ae-8ee8-7cc285a91d00"
+  }
 }
